@@ -1,0 +1,13 @@
+{
+  "MY_BOOKS": [
+    {
+      "name": "La orfandad de la muerte",
+      "author": "Alfredo Peñuelas Rivas",
+      "editorial": "Jus ediciones",
+      "gender": "Ficción literaria",
+      "num_pages": 256,
+      "type": ["Libro", "Novela"],
+      "synopsis": "¿Qué es lo que buscas cuando buscas? Es la voz que acompaña a Alfredo en cada uno de sus pasos por el viejo continente, en un estado casi delirante. Sin poder reconocerse, esa frase se repite hasta el cansancio en la mente del protagonista, sumergiéndolo en una especie de enfermizo círculo que lo hace adentrarse en lo más profundo de su existencia, lo cual se refleja en sus divagaciones, en esas líneas tejidas a manera de autoficción. En esa extraordinaria y polifónica novela, Alfredo Peñuelas Rivas relata la historia de un pseudointelectual, como él lo llama, que se encuentra en medio de un vertiginoso y constante diálogo con él mismo y con la muerte, en medio de una historia de amor fallido, de sexo, de drogas y de rock and roll. En esta urdimbre existencialista, Peñuelas se allega de símbolos de la literatura moderna y de la cultura contemporánea para transformarlos en un diálogo con distintas voces que deja entrever cómo es la vida de un escritor en nuestros días: el sentir de la decepción amorosa, de la fascinación de escritores desde Lewis Carroll hasta Nabokov y de la combinación de estados alucinantes que hacen efervescencia de tres ciudades, también alucinantes e incluso místicas: París, Barcelona y México, y cuyo trasfondo musical es armonizado por las letras de las canciones de The Doors. "
+    }
+  ]
+}
