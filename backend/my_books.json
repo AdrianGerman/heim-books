@@ -8,6 +8,15 @@
       "num_pages": 256,
       "type": ["Libro", "Novela"],
       "synopsis": "¿Qué es lo que buscas cuando buscas? Es la voz que acompaña a Alfredo en cada uno de sus pasos por el viejo continente, en un estado casi delirante. Sin poder reconocerse, esa frase se repite hasta el cansancio en la mente del protagonista, sumergiéndolo en una especie de enfermizo círculo que lo hace adentrarse en lo más profundo de su existencia, lo cual se refleja en sus divagaciones, en esas líneas tejidas a manera de autoficción. En esa extraordinaria y polifónica novela, Alfredo Peñuelas Rivas relata la historia de un pseudointelectual, como él lo llama, que se encuentra en medio de un vertiginoso y constante diálogo con él mismo y con la muerte, en medio de una historia de amor fallido, de sexo, de drogas y de rock and roll. En esta urdimbre existencialista, Peñuelas se allega de símbolos de la literatura moderna y de la cultura contemporánea para transformarlos en un diálogo con distintas voces que deja entrever cómo es la vida de un escritor en nuestros días: el sentir de la decepción amorosa, de la fascinación de escritores desde Lewis Carroll hasta Nabokov y de la combinación de estados alucinantes que hacen efervescencia de tres ciudades, también alucinantes e incluso místicas: París, Barcelona y México, y cuyo trasfondo musical es armonizado por las letras de las canciones de The Doors. "
+    },
+    {
+      "name": "Sobre héroes y tumbas",
+      "author": "Ernesto Sabato",
+      "editorial": "booket",
+      "gender": "Novela",
+      "num_pages": 542,
+      "type": ["Libro"],
+      "synopsis": "Un apocalipsis de nuestro tiempo, S.Quasimodo. Novela apasionante atravesada por una metáfora prodigiosa: el Informe sobre Ciegos, Witold Gombrowicz. Un delirio que habría hecho palidecer de envidias a Lautréamont. Maurice Nadeau, La Quinzaine Littéraire, París. Un poderoso e inolvidable soñador, Time, Nueva York. Drama de la salvación, escalofriante y demoníaca, O. Macrí, Universidad de Florencia. Genial, una de las más asombrosas manifestaciones de nuestro tiempo, uno de los libros del siglo, Die Welt, Berlín. Logró con genio de los que Durell hizo solo con talento, La Nouvel Observateur, París. Si hay una novela que prueba la grandeza de la literatura latinoamericana es Sobre héroes y tumbas, un film de Buñuel sobre el guión de Dostoievski, Newsweek, Nueva York."
     }
   ]
 }
