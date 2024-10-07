@@ -17,6 +17,15 @@
       "num_pages": 542,
       "type": ["Libro"],
       "synopsis": "Un apocalipsis de nuestro tiempo, S.Quasimodo. Novela apasionante atravesada por una metáfora prodigiosa: el Informe sobre Ciegos, Witold Gombrowicz. Un delirio que habría hecho palidecer de envidias a Lautréamont. Maurice Nadeau, La Quinzaine Littéraire, París. Un poderoso e inolvidable soñador, Time, Nueva York. Drama de la salvación, escalofriante y demoníaca, O. Macrí, Universidad de Florencia. Genial, una de las más asombrosas manifestaciones de nuestro tiempo, uno de los libros del siglo, Die Welt, Berlín. Logró con genio de los que Durell hizo solo con talento, La Nouvel Observateur, París. Si hay una novela que prueba la grandeza de la literatura latinoamericana es Sobre héroes y tumbas, un film de Buñuel sobre el guión de Dostoievski, Newsweek, Nueva York."
+    },
+    {
+      "name": "Persona normal",
+      "author": "Benito Taibo",
+      "editorial": "booket",
+      "gender": ["Narrativa"],
+      "num_pages": "242",
+      "type": "Libro",
+      "synopsis": "Tenía un par de padres divertidos y jóvenes, llenos de sueños y de planes. Pero a mis doce años, cinco meses, tres días y dos horas y cuarto, aproximadamente, me quedé sin ellos... Desde que el tío Paco se hizo cargo de él, Sebastián ha vivido aventuras increíbles: tuvo un encuentro inesperado con un enorme felino, conoció a uno de los últimos vampiros que viven en el DF; frente a su casa vio a un mítico personaje saltar de la góndola en la que viajaba, para rescatar a una joven de una inundación; consiguió un mapa estelar para un pobre extraterrestre perdido en la Tierra, sobrevivió el embate de un enorme monstruo marino, peleó al lado de los sioux para defender su territorio de los colonizadores... ¿Qué pasa con Sebastián? ¿Acaso no es una persona normal?"
     }
   ]
 }
