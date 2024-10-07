@@ -1,0 +1,5 @@
+# configuración de vscode
+.vscode
+
+# archivos temporales
+books.js
