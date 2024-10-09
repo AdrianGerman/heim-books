@@ -26,7 +26,7 @@
       "author": "Benito Taibo",
       "editorial": "booket",
       "gender": ["Narrativa"],
-      "num_pages": "242",
+      "num_pages": 242,
       "type": "Libro",
       "synopsis": "Tenía un par de padres divertidos y jóvenes, llenos de sueños y de planes. Pero a mis doce años, cinco meses, tres días y dos horas y cuarto, aproximadamente, me quedé sin ellos... Desde que el tío Paco se hizo cargo de él, Sebastián ha vivido aventuras increíbles: tuvo un encuentro inesperado con un enorme felino, conoció a uno de los últimos vampiros que viven en el DF; frente a su casa vio a un mítico personaje saltar de la góndola en la que viajaba, para rescatar a una joven de una inundación; consiguió un mapa estelar para un pobre extraterrestre perdido en la Tierra, sobrevivió el embate de un enorme monstruo marino, peleó al lado de los sioux para defender su territorio de los colonizadores... ¿Qué pasa con Sebastián? ¿Acaso no es una persona normal?"
     },
@@ -39,6 +39,16 @@
       "num_pages": 159,
       "type": "Libro",
       "synopsis": "Juan Pablo Castel es un pintor recluido en prisión por el asesinato de María Iribame. Durante su encierro rememora la cadena de acontecimientos que le llevaron a perder el control, a convertirse en un hombre con el interior oscuro, un hombre poseído por una insalvable soledad, la de la ausencia de la mujer amada hasta el limite, la del engaño que ha convertido su corazón en una pedazo duro y frío de hielo y ha colocado entre sus manos el cuchillo que pone fin al sufrimiento. Obra esencial de Sabato, que Albert Camus refrendó ante la crítica mundial. El túnel nos entrega los elementos básicos de su visión metafísica del existir."
+    },
+    {
+      "id": 5,
+      "name": "Al final, las palabras",
+      "author": "Antonio Malpica",
+      "editorial": "A través del espejo",
+      "geneder": ["Ficción histórica"],
+      "num_pages": 193,
+      "type": "Libro",
+      "synopsis": "Es muy difícil de poner en palabras, porque el dolor que sientes cuando ves unos ojos como los que ella tenia, no lo entiendes y, a la vez no lo quieres entender. [...] Es cierto, Pita, que antes ya habíamos conocido niñas bonitas, pero lo que te hacia sentir ella era más fuerte que ningún otro sentimiento, era más fuerte que tener mucho dinero, más fuerte que pelearte con uno de otra escuela y vencerlo [...] Más fuerte, aún, que la amistad [...] Más fuerte que el tiempo, un dolor que no se va, un dolor que, cuando conoces, se queda para siempre."
     }
   ]
 }
