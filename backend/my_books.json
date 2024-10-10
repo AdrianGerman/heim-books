@@ -49,6 +49,16 @@
       "num_pages": 193,
       "type": "Libro",
       "synopsis": "Es muy difícil de poner en palabras, porque el dolor que sientes cuando ves unos ojos como los que ella tenia, no lo entiendes y, a la vez no lo quieres entender. [...] Es cierto, Pita, que antes ya habíamos conocido niñas bonitas, pero lo que te hacia sentir ella era más fuerte que ningún otro sentimiento, era más fuerte que tener mucho dinero, más fuerte que pelearte con uno de otra escuela y vencerlo [...] Más fuerte, aún, que la amistad [...] Más fuerte que el tiempo, un dolor que no se va, un dolor que, cuando conoces, se queda para siempre."
+    },
+    {
+      "id": 6,
+      "name": "Corazonadas",
+      "author": "Benito Taibo",
+      "editorial": "Planeta",
+      "gender": ["Narrativa", "Novela"],
+      "num_pages": 156,
+      "type": "Libro",
+      "synopsis": "Encontré la caja por pura casualidad; era pequeña y estaba firmemente atada con un corder azul. Con marcador negro, en la tapa, tenía impreso el nombre del propietario: Paco. Así, sin apellidos, sin ninguna advertencia de no tocar o frágil o material peligroso. Dentro podría haber cualquier cosa, desde mariposas disecadas, un huevo de dinosaurio, el mapa de una isla misteriosa o una pluma de pájaro dodo. Sin embargo, contenía cuadernos. Verdes y delgados, de esos que se podían comprar antes en cualquier papelería y que hoy ya no existen. También encontré dos piedras, Una blanca y otra negra. Él y yo. Nosotros. Una tarjeta firmada lo coronaba todo: 'Viernes: Haz con ellos lo que quieras'. Comparto con ustedes uno de ellos. Se llama 'Corazonadas'. Está escrito por mi tío Paco, el hombre que de muchas maneras me salvó la vida y logró convertir lo ordinario en extraordinario."
     }
   ]
 }
