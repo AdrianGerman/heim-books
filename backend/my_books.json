@@ -75,6 +75,16 @@
       "num_pages": 140,
       "type": "Libro",
       "synopsis": "Esta sátira de la Revolución rusa y el triunfo del estalinismo, publicado en 1945, se ha convertido por derecho propio en un hito de la cultura contemporánea y en uno de los libros más mordaces de todos los tiempos. Ante el auge de los animales de la Granja Solariega, pronto detectamos las semillas del totalitarismo en una organización aparentemente ideal; y en nuestros líderes más carismáticos, la sombra de los opresores más crueles."
+    },
+    {
+      "id": 8,
+      "name": "Joyland",
+      "author": "Stephen King",
+      "editorial": "DEBOLSILLO",
+      "gender": ["Novela", "Terror", "Ficción"],
+      "num_pages": 301,
+      "type": "Libro",
+      "synopsis": "Verano de 1973. Carolina del Norte. Devin Jones entra a trabajar en Joyland, un singular parque de atracciones local. La leyenda de un terrible asesinato cometido en la Casa Embrujada del parque, la pérdida de su virginidad y unos meses plagados de misterio, aventura y grandes descubrimientos cambiarán su vida para siempre. Joyland un libro impresionantemente , bello, desgarrador. Tiene misterio, tiene atracciones; es una historia sobre madurar y hacerse mayor, y sobre aquellos que no pueden hacer ninguna de las dos cosas porque la muerte viene por ellos antes de la hora. Hasta los lectores mas insensibles se emocionarán."
     }
   ]
 }
