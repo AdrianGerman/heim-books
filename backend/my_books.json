@@ -59,6 +59,22 @@
       "num_pages": 156,
       "type": "Libro",
       "synopsis": "Encontré la caja por pura casualidad; era pequeña y estaba firmemente atada con un corder azul. Con marcador negro, en la tapa, tenía impreso el nombre del propietario: Paco. Así, sin apellidos, sin ninguna advertencia de no tocar o frágil o material peligroso. Dentro podría haber cualquier cosa, desde mariposas disecadas, un huevo de dinosaurio, el mapa de una isla misteriosa o una pluma de pájaro dodo. Sin embargo, contenía cuadernos. Verdes y delgados, de esos que se podían comprar antes en cualquier papelería y que hoy ya no existen. También encontré dos piedras, Una blanca y otra negra. Él y yo. Nosotros. Una tarjeta firmada lo coronaba todo: 'Viernes: Haz con ellos lo que quieras'. Comparto con ustedes uno de ellos. Se llama 'Corazonadas'. Está escrito por mi tío Paco, el hombre que de muchas maneras me salvó la vida y logró convertir lo ordinario en extraordinario."
+    },
+    {
+      "id": 7,
+      "name": "Rebelión en la granja",
+      "author": "George Orwell",
+      "editorial": "DEBOLSILLO",
+      "gender": [
+        "Novela",
+        "Sátira Política",
+        "Ficción distópica",
+        "Fabula",
+        "Clásicos"
+      ],
+      "num_pages": 140,
+      "type": "Libro",
+      "synopsis": "Esta sátira de la Revolución rusa y el triunfo del estalinismo, publicado en 1945, se ha convertido por derecho propio en un hito de la cultura contemporánea y en uno de los libros más mordaces de todos los tiempos. Ante el auge de los animales de la Granja Solariega, pronto detectamos las semillas del totalitarismo en una organización aparentemente ideal; y en nuestros líderes más carismáticos, la sombra de los opresores más crueles."
     }
   ]
 }
