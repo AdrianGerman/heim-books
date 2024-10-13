@@ -85,6 +85,16 @@
       "num_pages": 301,
       "type": "Libro",
       "synopsis": "Verano de 1973. Carolina del Norte. Devin Jones entra a trabajar en Joyland, un singular parque de atracciones local. La leyenda de un terrible asesinato cometido en la Casa Embrujada del parque, la pérdida de su virginidad y unos meses plagados de misterio, aventura y grandes descubrimientos cambiarán su vida para siempre. Joyland un libro impresionantemente , bello, desgarrador. Tiene misterio, tiene atracciones; es una historia sobre madurar y hacerse mayor, y sobre aquellos que no pueden hacer ninguna de las dos cosas porque la muerte viene por ellos antes de la hora. Hasta los lectores mas insensibles se emocionarán."
+    },
+    {
+      "id": 9,
+      "name": "El cuentacuentos",
+      "author": "Antonia Michaelis",
+      "editorial": "A través del espejo",
+      "gender": ["Ficción", "Thriller", "Suspenso", "Romance"],
+      "num_pages": 365,
+      "type": "Libro",
+      "synopsis": "Ése fue el momento en el que todo dio un vuelco. En el que comenzó la historia que se convertiría en la historia de Anna. Ya había empezado antes, claro, con la muñeca, con los viejos auriculares, con la niña pequeña esperando en el patio desierto de la escuela. Con el deseo de comprender quién o cuántas personas era Abel Tannatek, Anna cerró los ojos un segundo y se precipitó fuera del mundo real. Cayó en el comienzo de un cuento [...] No fue sino hasta después, mucho después, y ya demasiado tarde, cuando Anna comprendería que este cuento de hadas era uno funesto."
     }
   ]
 }
