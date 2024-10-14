@@ -95,6 +95,16 @@
       "num_pages": 365,
       "type": "Libro",
       "synopsis": "Ése fue el momento en el que todo dio un vuelco. En el que comenzó la historia que se convertiría en la historia de Anna. Ya había empezado antes, claro, con la muñeca, con los viejos auriculares, con la niña pequeña esperando en el patio desierto de la escuela. Con el deseo de comprender quién o cuántas personas era Abel Tannatek, Anna cerró los ojos un segundo y se precipitó fuera del mundo real. Cayó en el comienzo de un cuento [...] No fue sino hasta después, mucho después, y ya demasiado tarde, cuando Anna comprendería que este cuento de hadas era uno funesto."
+    },
+    {
+      "id": 10,
+      "name": "El Rastro",
+      "author": "Antonio Ortuño",
+      "editorial": "A través del espejo",
+      "gender": ["Ficción"],
+      "num_pages": 166,
+      "type": "Libro",
+      "synopsis": "Lo llaman el apagón. EL blackout. Despertar sin idea de dónde estás ni qué fue lo que pasó. Y aquí estoy. [...] Los problemas de los últimos días se agolpan en mi cerebro irritado. Las amarguras, la incertidumbre, los líos con Sofia, la desaparición de Paulo. Paulo. Mi amigo no está. En su busca terminé aquí, atacado por quién sabe quién, arrastrado a quién sabe dónde. Un relámpago de rabia no golpea en mitad de los ojos. No hay fuerzas para resistirlo. Desaparecido. No hay nota en los periódicos aún, no lo comentan en la radio todavía. Porque si le informamos algo a quien sea, van a matarlo. Desaparecido él: jodidos nosotros."
     }
   ]
 }
