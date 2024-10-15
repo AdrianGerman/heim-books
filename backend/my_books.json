@@ -8,7 +8,8 @@
       "gender": ["Ficción literaria", "Novela"],
       "num_pages": 256,
       "type": "Libro",
-      "synopsis": "¿Qué es lo que buscas cuando buscas? Es la voz que acompaña a Alfredo en cada uno de sus pasos por el viejo continente, en un estado casi delirante. Sin poder reconocerse, esa frase se repite hasta el cansancio en la mente del protagonista, sumergiéndolo en una especie de enfermizo círculo que lo hace adentrarse en lo más profundo de su existencia, lo cual se refleja en sus divagaciones, en esas líneas tejidas a manera de autoficción. En esa extraordinaria y polifónica novela, Alfredo Peñuelas Rivas relata la historia de un pseudointelectual, como él lo llama, que se encuentra en medio de un vertiginoso y constante diálogo con él mismo y con la muerte, en medio de una historia de amor fallido, de sexo, de drogas y de rock and roll. En esta urdimbre existencialista, Peñuelas se allega de símbolos de la literatura moderna y de la cultura contemporánea para transformarlos en un diálogo con distintas voces que deja entrever cómo es la vida de un escritor en nuestros días: el sentir de la decepción amorosa, de la fascinación de escritores desde Lewis Carroll hasta Nabokov y de la combinación de estados alucinantes que hacen efervescencia de tres ciudades, también alucinantes e incluso místicas: París, Barcelona y México, y cuyo trasfondo musical es armonizado por las letras de las canciones de The Doors. "
+      "front-page": "./assets/books/la_orfandad.webp",
+      "synopsis": "¿Qué es lo que buscas cuando buscas? Es la voz que acompaña a Alfredo en cada uno de sus pasos por el viejo continente, en un estado casi delirante. Sin poder reconocerse, esa frase se repite hasta el cansancio en la mente del protagonista, sumergiéndolo en una especie de enfermizo círculo que lo hace adentrarse en lo más profundo de su existencia, lo cual se refleja en sus divagaciones, en esas líneas tejidas a manera de autoficción. En esa extraordinaria y polifónica novela, Alfredo Peñuelas Rivas relata la historia de un pseudointelectual, como él lo llama, que se encuentra en medio de un vertiginoso y constante diálogo con él mismo y con la muerte, en medio de una historia de amor fallido, de sexo, de drogas y de rock and roll. En esta urdimbre existencialista, Peñuelas se allega de símbolos de la literatura moderna y de la cultura contemporánea para transformarlos en un diálogo con distintas voces que deja entrever cómo es la vida de un escritor en nuestros días: el sentir de la decepción amorosa, de la fascinación de escritores desde Lewis Carroll hasta Nabokov y de la combinación de estados alucinantes que hacen efervescencia de tres ciudades, también alucinantes e incluso místicas: París, Barcelona y México, y cuyo trasfondo musical es armonizado por las letras de las canciones de The Doors."
     },
     {
       "id": 2,
@@ -18,6 +19,7 @@
       "gender": ["Novela"],
       "num_pages": 542,
       "type": "Libro",
+      "front-page": "./assets/books/heroes_tumbas.webp",
       "synopsis": "Un apocalipsis de nuestro tiempo, S.Quasimodo. Novela apasionante atravesada por una metáfora prodigiosa: el Informe sobre Ciegos, Witold Gombrowicz. Un delirio que habría hecho palidecer de envidias a Lautréamont. Maurice Nadeau, La Quinzaine Littéraire, París. Un poderoso e inolvidable soñador, Time, Nueva York. Drama de la salvación, escalofriante y demoníaca, O. Macrí, Universidad de Florencia. Genial, una de las más asombrosas manifestaciones de nuestro tiempo, uno de los libros del siglo, Die Welt, Berlín. Logró con genio de los que Durell hizo solo con talento, La Nouvel Observateur, París. Si hay una novela que prueba la grandeza de la literatura latinoamericana es Sobre héroes y tumbas, un film de Buñuel sobre el guión de Dostoievski, Newsweek, Nueva York."
     },
     {
@@ -28,6 +30,7 @@
       "gender": ["Narrativa"],
       "num_pages": 242,
       "type": "Libro",
+      "front-page": "./assets/books/persona_normal.webp",
       "synopsis": "Tenía un par de padres divertidos y jóvenes, llenos de sueños y de planes. Pero a mis doce años, cinco meses, tres días y dos horas y cuarto, aproximadamente, me quedé sin ellos... Desde que el tío Paco se hizo cargo de él, Sebastián ha vivido aventuras increíbles: tuvo un encuentro inesperado con un enorme felino, conoció a uno de los últimos vampiros que viven en el DF; frente a su casa vio a un mítico personaje saltar de la góndola en la que viajaba, para rescatar a una joven de una inundación; consiguió un mapa estelar para un pobre extraterrestre perdido en la Tierra, sobrevivió el embate de un enorme monstruo marino, peleó al lado de los sioux para defender su territorio de los colonizadores... ¿Qué pasa con Sebastián? ¿Acaso no es una persona normal?"
     },
     {
@@ -38,6 +41,7 @@
       "gender": ["Novela"],
       "num_pages": 159,
       "type": "Libro",
+      "front-page": "./assets/books/el_tunel.webp",
       "synopsis": "Juan Pablo Castel es un pintor recluido en prisión por el asesinato de María Iribame. Durante su encierro rememora la cadena de acontecimientos que le llevaron a perder el control, a convertirse en un hombre con el interior oscuro, un hombre poseído por una insalvable soledad, la de la ausencia de la mujer amada hasta el limite, la del engaño que ha convertido su corazón en una pedazo duro y frío de hielo y ha colocado entre sus manos el cuchillo que pone fin al sufrimiento. Obra esencial de Sabato, que Albert Camus refrendó ante la crítica mundial. El túnel nos entrega los elementos básicos de su visión metafísica del existir."
     },
     {
@@ -48,6 +52,7 @@
       "geneder": ["Ficción histórica"],
       "num_pages": 193,
       "type": "Libro",
+      "front-page": "./assets/books/al_final_las_palabras.webp",
       "synopsis": "Es muy difícil de poner en palabras, porque el dolor que sientes cuando ves unos ojos como los que ella tenia, no lo entiendes y, a la vez no lo quieres entender. [...] Es cierto, Pita, que antes ya habíamos conocido niñas bonitas, pero lo que te hacia sentir ella era más fuerte que ningún otro sentimiento, era más fuerte que tener mucho dinero, más fuerte que pelearte con uno de otra escuela y vencerlo [...] Más fuerte, aún, que la amistad [...] Más fuerte que el tiempo, un dolor que no se va, un dolor que, cuando conoces, se queda para siempre."
     },
     {
@@ -58,6 +63,7 @@
       "gender": ["Narrativa", "Novela"],
       "num_pages": 156,
       "type": "Libro",
+      "front-page": "./assets/books/corazonadas.webp",
       "synopsis": "Encontré la caja por pura casualidad; era pequeña y estaba firmemente atada con un corder azul. Con marcador negro, en la tapa, tenía impreso el nombre del propietario: Paco. Así, sin apellidos, sin ninguna advertencia de no tocar o frágil o material peligroso. Dentro podría haber cualquier cosa, desde mariposas disecadas, un huevo de dinosaurio, el mapa de una isla misteriosa o una pluma de pájaro dodo. Sin embargo, contenía cuadernos. Verdes y delgados, de esos que se podían comprar antes en cualquier papelería y que hoy ya no existen. También encontré dos piedras, Una blanca y otra negra. Él y yo. Nosotros. Una tarjeta firmada lo coronaba todo: 'Viernes: Haz con ellos lo que quieras'. Comparto con ustedes uno de ellos. Se llama 'Corazonadas'. Está escrito por mi tío Paco, el hombre que de muchas maneras me salvó la vida y logró convertir lo ordinario en extraordinario."
     },
     {
@@ -74,6 +80,7 @@
       ],
       "num_pages": 140,
       "type": "Libro",
+      "front-page": "./assets/books/rebelion_granja.webp",
       "synopsis": "Esta sátira de la Revolución rusa y el triunfo del estalinismo, publicado en 1945, se ha convertido por derecho propio en un hito de la cultura contemporánea y en uno de los libros más mordaces de todos los tiempos. Ante el auge de los animales de la Granja Solariega, pronto detectamos las semillas del totalitarismo en una organización aparentemente ideal; y en nuestros líderes más carismáticos, la sombra de los opresores más crueles."
     },
     {
@@ -84,6 +91,7 @@
       "gender": ["Novela", "Terror", "Ficción"],
       "num_pages": 301,
       "type": "Libro",
+      "front-page": "./assets/books/joyland.webp",
       "synopsis": "Verano de 1973. Carolina del Norte. Devin Jones entra a trabajar en Joyland, un singular parque de atracciones local. La leyenda de un terrible asesinato cometido en la Casa Embrujada del parque, la pérdida de su virginidad y unos meses plagados de misterio, aventura y grandes descubrimientos cambiarán su vida para siempre. Joyland un libro impresionantemente , bello, desgarrador. Tiene misterio, tiene atracciones; es una historia sobre madurar y hacerse mayor, y sobre aquellos que no pueden hacer ninguna de las dos cosas porque la muerte viene por ellos antes de la hora. Hasta los lectores mas insensibles se emocionarán."
     },
     {
@@ -94,6 +102,7 @@
       "gender": ["Ficción", "Thriller", "Suspenso", "Romance"],
       "num_pages": 365,
       "type": "Libro",
+      "front-page": "./assets/books/cuentacuentos.webp",
       "synopsis": "Ése fue el momento en el que todo dio un vuelco. En el que comenzó la historia que se convertiría en la historia de Anna. Ya había empezado antes, claro, con la muñeca, con los viejos auriculares, con la niña pequeña esperando en el patio desierto de la escuela. Con el deseo de comprender quién o cuántas personas era Abel Tannatek, Anna cerró los ojos un segundo y se precipitó fuera del mundo real. Cayó en el comienzo de un cuento [...] No fue sino hasta después, mucho después, y ya demasiado tarde, cuando Anna comprendería que este cuento de hadas era uno funesto."
     },
     {
@@ -104,6 +113,7 @@
       "gender": ["Ficción"],
       "num_pages": 166,
       "type": "Libro",
+      "front-page": "./assets/books/el_rastro.webp",
       "synopsis": "Lo llaman el apagón. EL blackout. Despertar sin idea de dónde estás ni qué fue lo que pasó. Y aquí estoy. [...] Los problemas de los últimos días se agolpan en mi cerebro irritado. Las amarguras, la incertidumbre, los líos con Sofia, la desaparición de Paulo. Paulo. Mi amigo no está. En su busca terminé aquí, atacado por quién sabe quién, arrastrado a quién sabe dónde. Un relámpago de rabia no golpea en mitad de los ojos. No hay fuerzas para resistirlo. Desaparecido. No hay nota en los periódicos aún, no lo comentan en la radio todavía. Porque si le informamos algo a quien sea, van a matarlo. Desaparecido él: jodidos nosotros."
     },
     {
@@ -114,6 +124,7 @@
       "gender": ["Ficción", "Thriller"],
       "num_pages": 183,
       "type": "Libro",
+      "front-page": "./assets/books/miedo.webp",
       "synopsis": "Sigo tirando sobre la nieve observando la oscuridad infinita y no puedo evitar pensar en si Ellamay está ahi en algún lugar... entre las estrellas, a mil millones de kilómetros de distancia. O quizá está más allá de las estrellas, más allá de todo... en un sitio donde no hay vida, ni oscuridad ni luz... ni tiempo ni lugar, para siempre."
     }
   ]
