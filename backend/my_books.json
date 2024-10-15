@@ -105,6 +105,16 @@
       "num_pages": 166,
       "type": "Libro",
       "synopsis": "Lo llaman el apagón. EL blackout. Despertar sin idea de dónde estás ni qué fue lo que pasó. Y aquí estoy. [...] Los problemas de los últimos días se agolpan en mi cerebro irritado. Las amarguras, la incertidumbre, los líos con Sofia, la desaparición de Paulo. Paulo. Mi amigo no está. En su busca terminé aquí, atacado por quién sabe quién, arrastrado a quién sabe dónde. Un relámpago de rabia no golpea en mitad de los ojos. No hay fuerzas para resistirlo. Desaparecido. No hay nota en los periódicos aún, no lo comentan en la radio todavía. Porque si le informamos algo a quien sea, van a matarlo. Desaparecido él: jodidos nosotros."
+    },
+    {
+      "id": 11,
+      "name": "Miedo",
+      "author": "Kevin Brooks",
+      "editorial": "A través del espejo",
+      "gender": ["Ficción", "Thriller"],
+      "num_pages": 183,
+      "type": "Libro",
+      "synopsis": "Sigo tirando sobre la nieve observando la oscuridad infinita y no puedo evitar pensar en si Ellamay está ahi en algún lugar... entre las estrellas, a mil millones de kilómetros de distancia. O quizá está más allá de las estrellas, más allá de todo... en un sitio donde no hay vida, ni oscuridad ni luz... ni tiempo ni lugar, para siempre."
     }
   ]
 }
