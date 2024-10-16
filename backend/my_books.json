@@ -126,6 +126,17 @@
       "type": "Libro",
       "front-page": "./assets/books/miedo.webp",
       "synopsis": "Sigo tirando sobre la nieve observando la oscuridad infinita y no puedo evitar pensar en si Ellamay está ahi en algún lugar... entre las estrellas, a mil millones de kilómetros de distancia. O quizá está más allá de las estrellas, más allá de todo... en un sitio donde no hay vida, ni oscuridad ni luz... ni tiempo ni lugar, para siempre."
+    },
+    {
+      "id": 12,
+      "name": "Almendra",
+      "author": "Won-pyung Sohn",
+      "editorial": "Oceano",
+      "gender": ["Novela juvenil", "Drama", "Narrativa"],
+      "num_pages": 255,
+      "type": "Libro",
+      "front-page": "./assets/books/almendra.webp",
+      "synopsis": "Esta historia habla de un monstruo que se encuentra con otro monstruo. Uno de esos monstruos soy yo. Yunjae nació con alexitimia, una enfermedad que le impide reconocer y expresar emociones, y que está asociada a un crecimiento inferior de la amígdala cerebral, generalmente del tamaño de una almendra. Su madre soltera y su abuela hacen todo lo posible por ayudarlo a relacionarse con los demás, si bien en la escuela se enfrenta a la intimidación y al rechazo de sus compañeros por su comportamiento indolente. Pero un dfa ocurre la tragedia: en la tarde de su decimosexto cumpleaños, la madre y la abuela de Yunjae son víctimas de un violento ataque callejero que termina con su abuela muerta y su madre postrada en cama en estado vegetativo Yunjae tendrá entonces que vivir solo y encargarse de la librería de libros usados de su familia. Es entonces cuando sucede el inesperado encuentro con Gon, un chico volátil, propenso al mal humor y a las peleas, que ha sufrido una infancia traumática. Ambos son polos opuestos, pero el rechazo que sufren -cada uno por diferentes razones- por una sociedad que no los entiende, hace que pasen de ser enemigos, a cultivar una peculiar amistad. Podrá la relación con Gon, el encuentro con una chica llamada Dora que sólo sueña con correr, y su intervención en una situación de vida o muerte, despertar todas las emociones que Yunjae no había experimentado antes?"
     }
   ]
 }
