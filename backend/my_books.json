@@ -137,6 +137,17 @@
       "type": "Libro",
       "front-page": "./assets/books/almendra.webp",
       "synopsis": "Esta historia habla de un monstruo que se encuentra con otro monstruo. Uno de esos monstruos soy yo. Yunjae nació con alexitimia, una enfermedad que le impide reconocer y expresar emociones, y que está asociada a un crecimiento inferior de la amígdala cerebral, generalmente del tamaño de una almendra. Su madre soltera y su abuela hacen todo lo posible por ayudarlo a relacionarse con los demás, si bien en la escuela se enfrenta a la intimidación y al rechazo de sus compañeros por su comportamiento indolente. Pero un dfa ocurre la tragedia: en la tarde de su decimosexto cumpleaños, la madre y la abuela de Yunjae son víctimas de un violento ataque callejero que termina con su abuela muerta y su madre postrada en cama en estado vegetativo Yunjae tendrá entonces que vivir solo y encargarse de la librería de libros usados de su familia. Es entonces cuando sucede el inesperado encuentro con Gon, un chico volátil, propenso al mal humor y a las peleas, que ha sufrido una infancia traumática. Ambos son polos opuestos, pero el rechazo que sufren -cada uno por diferentes razones- por una sociedad que no los entiende, hace que pasen de ser enemigos, a cultivar una peculiar amistad. Podrá la relación con Gon, el encuentro con una chica llamada Dora que sólo sueña con correr, y su intervención en una situación de vida o muerte, despertar todas las emociones que Yunjae no había experimentado antes?"
+    },
+    {
+      "id": 13,
+      "name": "Lobos",
+      "author": "Xavier M. Sotelo",
+      "editorial": "DEBOLSILLO",
+      "gender": ["Ficción", "Terror"],
+      "num_pages": 281,
+      "type": "Libro",
+      "front-page": "./assets/books/lobos.webp",
+      "synopsis": "La luna llena no es solo para los enamorados. Diego está listo para dar el siguiente paso en su relación con Paola: le propondrá matrimonio, mientras acampan en un hermoso bosque en compañía de sus mejores amigos. Lo que inicia como la velada perfecta, pronto se convertirá en una pesadilla. Sin saberlo, los jóvenes se han internado en un pueblo en el que la mayoría de sus habitantes no son lo que aparentan, y a la luz de la luna llena sacarán a flote su personalidad: son unos temibles hombres lobo. Sólo los más fuertes sobrevivirán a esta noche de terror, en la que el ataque más mortífero vendrá de donde menos lo esperan."
     }
   ]
 }
