@@ -148,6 +148,17 @@
       "type": "Libro",
       "front-page": "./assets/books/lobos.webp",
       "synopsis": "La luna llena no es solo para los enamorados. Diego está listo para dar el siguiente paso en su relación con Paola: le propondrá matrimonio, mientras acampan en un hermoso bosque en compañía de sus mejores amigos. Lo que inicia como la velada perfecta, pronto se convertirá en una pesadilla. Sin saberlo, los jóvenes se han internado en un pueblo en el que la mayoría de sus habitantes no son lo que aparentan, y a la luz de la luna llena sacarán a flote su personalidad: son unos temibles hombres lobo. Sólo los más fuertes sobrevivirán a esta noche de terror, en la que el ataque más mortífero vendrá de donde menos lo esperan."
+    },
+    {
+      "id": 14,
+      "name": "La llamada de Cthulhu",
+      "author": "H.P.Lovecraft",
+      "editorial": "Alma clásicos ilustrados",
+      "gender": ["Terror"],
+      "num_pages": 92,
+      "type": "Libro",
+      "front-page": "./assets/books/la_llamada_de_cthulhu.webp",
+      "synopsis": "Alma clásicos ilustrados es una colección única que reúne obras maestras de literatura universal con un diseño acorde con la personalidad de cada título. La selección abarca libros y autores  de todos los géneros, épocas y lugares editados en cuidadas traducciones, e incluye ilustraciones creadas por talentosos artistas. Magníficas ediciones para ampliar su biblioteca y disfrutar del placer de la lectura con todos los sentidos. H.P.Lovecraft ha pasado de la historia de la literatura como uno de los grandes innovadores del relato fantástico y de terror del siglo XX. Niño prodigio, empezó a leer y escribir su primer cuento a muy temprana edad, y ya en la adolescencia era un noctámbulo solitario y atormentado. Es un escritor de culto que con sus relatos de auténtico terror provoca adicción entre sus lectores, Esta es una de sus obras más emblemáticas, que atrapa hasta el final, y propició el nacimiento de los llamados 'Mitos de Cthulhu'."
     }
   ]
 }
