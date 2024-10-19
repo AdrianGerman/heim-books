@@ -154,11 +154,22 @@
       "name": "La llamada de Cthulhu",
       "author": "H.P.Lovecraft",
       "editorial": "Alma clásicos ilustrados",
-      "gender": ["Terror"],
+      "gender": ["Terror", "Relatos"],
       "num_pages": 92,
       "type": "Libro",
       "front-page": "./assets/books/la_llamada_de_cthulhu.webp",
       "synopsis": "Alma clásicos ilustrados es una colección única que reúne obras maestras de literatura universal con un diseño acorde con la personalidad de cada título. La selección abarca libros y autores  de todos los géneros, épocas y lugares editados en cuidadas traducciones, e incluye ilustraciones creadas por talentosos artistas. Magníficas ediciones para ampliar su biblioteca y disfrutar del placer de la lectura con todos los sentidos. H.P.Lovecraft ha pasado de la historia de la literatura como uno de los grandes innovadores del relato fantástico y de terror del siglo XX. Niño prodigio, empezó a leer y escribir su primer cuento a muy temprana edad, y ya en la adolescencia era un noctámbulo solitario y atormentado. Es un escritor de culto que con sus relatos de auténtico terror provoca adicción entre sus lectores, Esta es una de sus obras más emblemáticas, que atrapa hasta el final, y propició el nacimiento de los llamados 'Mitos de Cthulhu'."
+    },
+    {
+      "id": 15,
+      "name": "El horror de Dunwich y otros relatos",
+      "author": "H.P.Lovecraft",
+      "editorial": "Alma clásicos ilustrados",
+      "gender": ["Terror", "Relatos", "Thriller"],
+      "num_pages": 348,
+      "type": "Libro",
+      "front-page": "./assets/books/el_horror_de_dunwich.webp",
+      "synopsis": "Alma clásicos ilustrados es una colección única que reúne obras maestras de literatura universal con un diseño acorde con la personalidad de cada título. La selección abarca libros y autores  de todos los géneros, épocas y lugares editados en cuidadas traducciones, e incluye ilustraciones creadas por talentosos artistas. Magníficas ediciones para ampliar su biblioteca y disfrutar del placer de la lectura con todos los sentidos. H.P.Lovecraft ha pasado a la historia de la literatura como uno de los grandes innovadores del relato fantástico y de terror del siglo XX. En sus narraciones se esconde todo un universo de 'Horror cósmico' habitado por seres antiguos y abominables. En el horror de Dunwich. obra centrada en los denominados Mitos de Cthulhu, Lovecraft nos traslada a un pueblo rural y decadente donde una extraña familia oculta un secreto aterrador. Acompañan a esta obra El caso de Charles Dexter Ward, El que susurra en la oscuridad y El color surgido del espacio, que muestran el dominio de este autor del misterio y su evolución hacia la ciencia ficción"
     }
   ]
 }
