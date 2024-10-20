@@ -170,6 +170,21 @@
       "type": "Libro",
       "front-page": "./assets/books/el_horror_de_dunwich.webp",
       "synopsis": "Alma clásicos ilustrados es una colección única que reúne obras maestras de literatura universal con un diseño acorde con la personalidad de cada título. La selección abarca libros y autores  de todos los géneros, épocas y lugares editados en cuidadas traducciones, e incluye ilustraciones creadas por talentosos artistas. Magníficas ediciones para ampliar su biblioteca y disfrutar del placer de la lectura con todos los sentidos. H.P.Lovecraft ha pasado a la historia de la literatura como uno de los grandes innovadores del relato fantástico y de terror del siglo XX. En sus narraciones se esconde todo un universo de 'Horror cósmico' habitado por seres antiguos y abominables. En el horror de Dunwich. obra centrada en los denominados Mitos de Cthulhu, Lovecraft nos traslada a un pueblo rural y decadente donde una extraña familia oculta un secreto aterrador. Acompañan a esta obra El caso de Charles Dexter Ward, El que susurra en la oscuridad y El color surgido del espacio, que muestran el dominio de este autor del misterio y su evolución hacia la ciencia ficción"
+    },
+    {
+      "id": 16,
+      "name": "La biblioteca de la medianoche",
+      "author": "Matt Haig",
+      "editorial": "AdN",
+      "gender": [
+        "Ciencia ficción",
+        "Literatura fantástica",
+        "Ficción filosófica"
+      ],
+      "num_pages": 330,
+      "type": "Libro",
+      "front-page": "./assets/books/la_biblioteca_de_la_medianoche.webp",
+      "synopsis": "Entre la vida y la muerte hay una biblioteca, y los estantes de esa biblioteca son infinitos. Cada libro da la oportunidad de probar otra vida que podrías haber vivido y de comprobar cómo habrían cambiado las cosas si hubieras tomado otras decisiones... ¿Habrías hecho algo de manera diferente si hubieras podido?. Nora Seed aparece, sin saber cómo, en la Biblioteca de la Medianoche, donde se le ofrece una nueva oportunidad para hacer las cosas bien. Hasta ese momento, su vida ha estado marcada por la infelicidad y el arrepentimiento. Nora siente que ha defraudado a todos, y también a ella misma. Pero esto está a punto de cambiar. Los libros de la Biblioteca de la Medianoche permitirán a Nora vivir como su hubiera hecho las cosas de otra manera. Con la ayuda de una vieja amiga, tendrá la opción de esquivar todo aquello que se arrepiente de haver echo (o no haber hecho), en pos de la vida perfecta. Pero las cosas no siempre serán como imaginó que serían, y pronto sus decisiones la enfrentarán a ella y a la Biblioteca a un peligro extremo. Nora deberá responder una última pregunta antes de que el tiempo se agote: ¿cuál es la mejor manera de vivir?"
     }
   ]
 }
