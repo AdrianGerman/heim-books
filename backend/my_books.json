@@ -196,6 +196,17 @@
       "type": "Libro",
       "front-page": "./assets/books/coraline.webp",
       "synopsis": "Al día siguiente de mudarse de casa, Coraline explora las catorce puertas de su nuevo hogar. Trece se pueden abrir con normalidad, pero la decimocuarta está cerrada y tapiada. Cuando por fin consigue abrirla, Coraline se encuentra con un pasadizo secreto que la conduce a otra casa tan parecida a la suya que resulta escalofriante. Sin embargo, hay ciertas diferencias que llaman su atención: la comida es más rica, los juguetes son tan desconocidos como maravillosos y, sobre todo, hay otra madre y otro padre que quieren que Coraline se quede con ellos, se convierta en su hija y no se marche nunca. Pronto Coraline se da cuenta de que tras los espejos, hay otros niños que han caído en la trampa. Son como almas perdidas, y ahora ella es su única esperanza de salvación. Pero para rescatarlos tendrá también que recuperar a sus verdaderos padres, y cumplir asi el desafío que le permitirá volver a su vida anterior."
+    },
+    {
+      "id": 18,
+      "name": "Las ventajas de ser invisible",
+      "author": "Stephen Chbosky",
+      "editorial": "Alfaguara",
+      "gender": ["Novela"],
+      "num_pages": 263,
+      "type": "Libro",
+      "front-page": "./assets/books/las_ventajas_de_ser_invisible.webp",
+      "synopsis": "Vivir al margen ofrece una perspectiva única. Pero siempre llega el momento de entrar en escena y ver el mundo desde dentro. Charlie es un chico realmente especial: lee muchísimo, no sale con amigos ni con chicas y reflexiona sobre el mundo desde un punto de vista muy particular. Su ingenuidad, su incapacidad para relacionarse normalmente y su extrema sinceridad le crean más de un problema, especialmente ahora que su único amigo ha muerto. Conocer a Sam y Patrick, los chicos más populares y vitales del colegio, provocará un giro radical en su vida que lo sumergirá de pleno en la adolescencia."
     }
   ]
 }
