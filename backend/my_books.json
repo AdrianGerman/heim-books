@@ -207,6 +207,17 @@
       "type": "Libro",
       "front-page": "./assets/books/las_ventajas_de_ser_invisible.webp",
       "synopsis": "Vivir al margen ofrece una perspectiva única. Pero siempre llega el momento de entrar en escena y ver el mundo desde dentro. Charlie es un chico realmente especial: lee muchísimo, no sale con amigos ni con chicas y reflexiona sobre el mundo desde un punto de vista muy particular. Su ingenuidad, su incapacidad para relacionarse normalmente y su extrema sinceridad le crean más de un problema, especialmente ahora que su único amigo ha muerto. Conocer a Sam y Patrick, los chicos más populares y vitales del colegio, provocará un giro radical en su vida que lo sumergirá de pleno en la adolescencia."
+    },
+    {
+      "id": 19,
+      "name": "Eleanor & Park",
+      "author": "Rainbow Rowell",
+      "editorial": "Alfaguara",
+      "gender": ["Novela", "Literatura juvenil", "Novela rosa"],
+      "num_pages": 425,
+      "type": "Libro",
+      "front-page": "./assets/books/eleanor_park.webp",
+      "synopsis": "Una historia de amor entre dor outsiders lo bastante inteligentes como para saber que el primer amor nunca es para siempre, pero lo suficientemente valientes y desesperados como para intentarlo. Divertida, esperanzadora, inspiradora, sexy y absolutamente emotiva; esta historia de amor cautivará a los lectores, y no solo a los jóvenes."
     }
   ]
 }
