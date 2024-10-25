@@ -229,6 +229,17 @@
       "type": "Libro",
       "front-page": "./assets/books/elevacion.webp",
       "synopsis": "El cuerpo de Scott Carey sufre un extrañó fenómeno: pierde peso sin parar pero no se vuelve más delgado; su báscula le dice que cada dia es un poco más ligero, sin importar si lleva o no ropa o qué tan pesada sea ésta. Castle Rock es una ciudad pequeña en la que las noticias vuelan y Scott no quiere ser sometido a pruebas y experimentos, así que sólo confía su secreto a su amigo, el doctor Ellis. Sin embargo, el misterio de su insólita enfermedad causará efectos inesperados en la convivencia de la pequeña cuidad y sacará a la luz lo mejor de la gente que lo rodea... La prueba de que un maestro aún puede elevar más su leyenda."
+    },
+    {
+      "id": 21,
+      "name": "Hecha de estrellas",
+      "author": "Ashley Herring Blake",
+      "editorial": "VR Editoras",
+      "gender": ["Ficción adulto joven", "Novela psicológica"],
+      "num_pages": 284,
+      "type": "Libro",
+      "front-page": "./assets/books/hecha_de_estrellas.webp",
+      "synopsis": "El libro mas poderoso que leerás en tu vida, por la autora de 'Cómo pedir un deseo'. Incluso las chicas hechas de estrellas son prisioneras. Las atrapan por las muñecas, las intercambian como objetos. No se las escucha. No se les cree. No valen la pena a menos que tengan algo para ofrecer. Incluso las chichas hechas de estrellas a veces creen esas mentiras..."
     }
   ]
 }
