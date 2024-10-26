@@ -240,6 +240,17 @@
       "type": "Libro",
       "front-page": "./assets/books/hecha_de_estrellas.webp",
       "synopsis": "El libro mas poderoso que leerás en tu vida, por la autora de 'Cómo pedir un deseo'. Incluso las chicas hechas de estrellas son prisioneras. Las atrapan por las muñecas, las intercambian como objetos. No se las escucha. No se les cree. No valen la pena a menos que tengan algo para ofrecer. Incluso las chichas hechas de estrellas a veces creen esas mentiras..."
+    },
+    {
+      "id": 22,
+      "name": "Erith de planta y hueso",
+      "author": "Daniel Rodriguez Cano",
+      "editorial": "Editorial Umbral",
+      "gender": ["Novela", "Literatura fantástica"],
+      "num_pages": 190,
+      "type": "Libro",
+      "front-page": "Escanear manualmente ya que no hay imagen en la web",
+      "synopsis": "Toda historia es una semilla que está por germinar, incluso las grandes leyendas tienen sus inicios en un acontecimiento pequeño. En el pueblo de Tres Arenas, bajo la luz de la Luna Escarlata, está por ocurrir un evento que llevará a una jovencita sábila a iniciar su primera aventura. Con el apoyo de sus amigos, un joven olivo y una jovencita cerezo, buscará un tesoro entra las arenas que les abrirá las puertas de sus destinos. Esta es la historia de Erith, Zeo y Cerah. Es el cuento antes de la leyenda, es la semilla al viento que está por germinarse."
     }
   ]
 }
