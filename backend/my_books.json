@@ -251,6 +251,17 @@
       "type": "Libro",
       "front-page": "Escanear manualmente ya que no hay imagen en la web",
       "synopsis": "Toda historia es una semilla que está por germinar, incluso las grandes leyendas tienen sus inicios en un acontecimiento pequeño. En el pueblo de Tres Arenas, bajo la luz de la Luna Escarlata, está por ocurrir un evento que llevará a una jovencita sábila a iniciar su primera aventura. Con el apoyo de sus amigos, un joven olivo y una jovencita cerezo, buscará un tesoro entra las arenas que les abrirá las puertas de sus destinos. Esta es la historia de Erith, Zeo y Cerah. Es el cuento antes de la leyenda, es la semilla al viento que está por germinarse."
+    },
+    {
+      "id": 23,
+      "name": "El resplandor",
+      "author": "Stephen King",
+      "editorial": "DEBOLSILLO",
+      "gender": ["Novela", "Terror", "Ficción Gótica", "Sobrenatural"],
+      "num_pages": 682,
+      "type": "Libro",
+      "front-page": "./assets/books/el_resplandor.webp",
+      "synopsis": "REDRUM. Esa es la palabra que Danny había visto en el espejo. Y aunque no sabia leer, entendió que era un mensaje de horror.Danny tenia cinco años. Y a esa edad pocos niños saben que los espejos invierten las imágenes y, menos aún, saben diferenciar entre la realidad y la fantasia. Pero Danny tenia pruebas de que sus fantasias relacionadas con el resplandor del espejo acabarían cumpliéndose: 'REDRUM'... 'MURDER', asesinato. Pero su padre necesitaba aquel trabajo en el hotel. Danny sabia que su madre pensaba en el divorcio y que su padre se obsesionaba con algo muy malo, tan malo como la muerte y el suicidio. Si, su padre necesitaba aceptar la propuesta de cuidar aquel hotel de lujo con más de cien habitaciones, aislados por la nieve durante seis meses. Hasta el deshielo iban a estar solos."
     }
   ]
 }
