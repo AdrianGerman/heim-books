@@ -273,6 +273,17 @@
       "type": "Libro",
       "front-page": "./assets/books/cementerio_de_animales.webp",
       "synopsis": "Church estaba allí otra vez, como Louis Creed temía y deseaba. Porque su hijita Ellie le había encomendado que cuidara del gato, y Church había muerto atropellado. Louis lo había comprobado: el gato estaba muerto, incluso lo había enterrado más allá del cementerio de animales. Sin embargo, Church había regresado, y sus ojos eran más crueles y perversos que antes. Pero volvía a estar allí y aunque Ellie no lo lamentaba, Louis Creed sí lo haría. Porque más allá del cementerio de animales, más allá de la valla de troncos que nadie se atrevía a trasponer, más allá de los cuarenta y cinco escalones, el maligno poder del antiguo cementerio indio lo reclamaba con macabra avidez..."
+    },
+    {
+      "id": 25,
+      "name": "Blockade Billy",
+      "author": "Stephen King",
+      "editorial": "DEBOLSILLO",
+      "gender": ["Terror", "Thriller", "Suspenso", "Misterio", "Ficción"],
+      "num_pages": 170,
+      "type": "Libro",
+      "front-page": "./assets/books/blockade_billy.webp",
+      "synopsis": "Stephen King vuelve a mostrarnos su talento narrativo en este libro que reúne dos intensos relatos cortos. El primero 'Blockade Billy', nos introduce en la misteriosa vida de William Blakely, el mejor jugador de la historia del béisbol al que, asombrosamente ya nadie recuerda. Su rastro ha desaparecido por completo de todos los registros deportivos. Y con razón. El joven Billy ocultó un oscuro secreto que sólo el maestro indiscutible del terror contemporáneo podía develar. En 'Moralidad' conoceremos a una joven enfermera atrapada por la turbia proposición del acaudalado y anciano reverendo al que cuida. Dividida entre sus principios y una acuciante situación económica, su decisión cambiará su vida y la de su marido para siempre. Blockade Billy es una lectura escalofriante para los amantes de las sensaciones fuertes."
     }
   ]
 }
