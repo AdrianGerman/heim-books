@@ -284,6 +284,17 @@
       "type": "Libro",
       "front-page": "./assets/books/blockade_billy.webp",
       "synopsis": "Stephen King vuelve a mostrarnos su talento narrativo en este libro que reúne dos intensos relatos cortos. El primero 'Blockade Billy', nos introduce en la misteriosa vida de William Blakely, el mejor jugador de la historia del béisbol al que, asombrosamente ya nadie recuerda. Su rastro ha desaparecido por completo de todos los registros deportivos. Y con razón. El joven Billy ocultó un oscuro secreto que sólo el maestro indiscutible del terror contemporáneo podía develar. En 'Moralidad' conoceremos a una joven enfermera atrapada por la turbia proposición del acaudalado y anciano reverendo al que cuida. Dividida entre sus principios y una acuciante situación económica, su decisión cambiará su vida y la de su marido para siempre. Blockade Billy es una lectura escalofriante para los amantes de las sensaciones fuertes."
+    },
+    {
+      "id": 26,
+      "name": "Los ojos del dragón",
+      "author": "Stephen King",
+      "editorial": "DEBOLSILLO",
+      "gender": ["Novela", "Terror", "Literatura fantástica", "Alta fantasía"],
+      "num_pages": 395,
+      "type": "Libro",
+      "front-page": "./assets/books/los_ojos_del_dragon.webp",
+      "synopsis": "Stephen King convierte un clásico cuento de hadas en una obra maestra del género de terror. 'Los ojos del dragón' es un apasionante relato de aventuras, con héroes arquetípicos, dragones, príncipes y hechiceros... El joven principe Peter, hijo del difunto rey, da la talla de monarca y espera heredar el reino. Pero el mago de la corte dispone que sea ungido el príncipe Thomas, un muchacho al que manipula de acuerdo con sus siniestros propósitos. Sin embargo, Thomas posee un secreto que nadie ha sido capaz de desvelar..."
     }
   ]
 }
