@@ -295,6 +295,17 @@
       "type": "Libro",
       "front-page": "./assets/books/los_ojos_del_dragon.webp",
       "synopsis": "Stephen King convierte un clásico cuento de hadas en una obra maestra del género de terror. 'Los ojos del dragón' es un apasionante relato de aventuras, con héroes arquetípicos, dragones, príncipes y hechiceros... El joven principe Peter, hijo del difunto rey, da la talla de monarca y espera heredar el reino. Pero el mago de la corte dispone que sea ungido el príncipe Thomas, un muchacho al que manipula de acuerdo con sus siniestros propósitos. Sin embargo, Thomas posee un secreto que nadie ha sido capaz de desvelar..."
+    },
+    {
+      "id": 27,
+      "name": "Nashville o el juego del lobo",
+      "author": "Antonia Michaelis",
+      "editorial": "A través del espejo",
+      "gender": ["Ficción", "Thriller", "Suspenso", "Romance"],
+      "num_pages": 446,
+      "type": "Libro",
+      "front-page": "./assets/books/nashville.webp",
+      "synopsis": "Svenja volteó y echó a correr. Sus pies se enredaron entre las zarzas [...] Sintió que las espinas y las ramas le arañaban la cara hasta provocarle sangre. El miedo le taponaba los oídos como si fuera algodón; por un momento el mundo estuvo en absoluto silencio. Entre los árboles, por encima de su cabeza, Svenja reconoció durante unos segundos el contorno de una figura, una figura que cargaba con algo grande y pesado. Luego ya no vio nada más, quedó envuelto en negrura y crujido de ramas, y siguió rodando colina abajo."
     }
   ]
 }
